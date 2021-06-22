@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-IDQCIRU",
+    "children" : [ {
+      "name" : "11240-MainThread",
+      "children" : [ {
+        "name" : "test_department_scene",
+        "uid" : "6a206593f7370b4f",
+        "parentUid" : "e0686284bbe4b43de531e8a9744a77ca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624349345568,
+          "stop" : 1624349347052,
+          "duration" : 1484
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e0686284bbe4b43de531e8a9744a77ca"
+    } ],
+    "uid" : "bb73462bc399bba936ac7f6c0dbc4c15"
+  } ]
+}
